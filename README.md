@@ -1,15 +1,15 @@
-### 🔍 Python Blok Projesi:
+### 🔍 Python Data Analysis Project:
 
-Bu projede, veri analizi ve görselleştirme alanında güçlü bir altyapı oluşturarak `Python`, `Pandas`, `NumPy`, `Matplotlib` ve `Seaborn` kütüphaneleri kullanılarak kapsamlı bir veri işleme süreci geliştirdim. 
+In this project, I developed a comprehensive data processing workflow, leveraging the power of `Python`, `Pandas`, `NumPy`, `Matplotlib`, and `Seaborn` libraries to perform in-depth data analysis and visualization.
 
-#### 📊 Proje Detayları:
-- Veriyi temizleme ve ön işleme adımları,
-- Veri setinin başlıca özelliklerini analiz etme,
-- İlgili veri görselleştirmeleriyle çıkarım yapma,
-- Veri analizinde kullanılan yöntemlerin yorumlanması.
+#### 📊 Project Details:
+- Data cleaning and preprocessing steps,
+- Analysis of key features within the dataset,
+- Drawing insights with relevant data visualizations,
+- Interpreting methods used in data analysis.
 
-#### 🎯 Amaç:
-Bu proje, veriyi daha etkili analiz etmek, görselleştirme araçları ile desteklemek ve verilerden anlamlı sonuçlar çıkararak raporlama süreçlerini iyileştirmeyi amaçlıyor. 
+#### 🎯 Objective:
+This project aims to improve reporting processes by enabling more effective data analysis, supporting insights with visualizations, and extracting meaningful conclusions from data.
 
-#### 👩‍💻 Yetkinlikler:
-Python, Veri Analitiği, Veri Görselleştirme, Pandas, Matplotlib, Seaborn
+#### 👩‍💻 Skills:
+Python, Data Analytics, Data Visualization, Pandas, Matplotlib, Seaborn
